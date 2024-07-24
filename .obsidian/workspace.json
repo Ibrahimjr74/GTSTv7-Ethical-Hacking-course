@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98b2fa0868fb0143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todays first class.md",
+                "file": "Introduction to Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todays first class.md",
+                "file": "Introduction to Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todays first class.md"
+                "file": "Introduction to Linux.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e023a5a14c1da694",
+  "active": "98b2fa0868fb0143",
   "lastOpenFiles": [
     "Todays first class.md",
+    "Introduction to Linux.md",
     "To.md"
   ]
 }
