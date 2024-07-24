@@ -1,2 +1,2 @@
 # GTSTv7
- The first day class node
+ The first day class note
