@@ -19,7 +19,7 @@ The best desktop environment for you depends on your personal preferences and sy
 Kali Linux makes it relatively easy to switch between desktop environments. You can install the desired environment using the package manager and then choose it at login.
 
 - Information gathering (tools: Nmap)
-- Vulnerability (weakness: legion,l ynis, nikto, nmap) 
+- Vulnerability (weakness: legion,lynis, nikto, nmap) 
 - Web application analysis : mostly used burpsuite, commix httrack, paros
 - Database Assessment: SQL map
 - Passwords: tools for exploiting passwords for login , websites, applications, windows...(john the riper, hash cat)
