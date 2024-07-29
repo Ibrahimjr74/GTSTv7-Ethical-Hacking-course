@@ -19,7 +19,7 @@ The best desktop environment for you depends on your personal preferences and sy
 Kali Linux makes it relatively easy to switch between desktop environments. You can install the desired environment using the package manager and then choose it at login.
 
 - Information gathering (tools: Nmap)
-- Vulnerability (weakness: legion,lynis, nikto, nmap) 
+- Vulnerability (weakness: legion,l ynis, nikto, nmap) 
 - Web application analysis : mostly used burpsuite, commix httrack, paros
 - Database Assessment: SQL map
 - Passwords: tools for exploiting passwords for login , websites, applications, windows...(john the riper, hash cat)
@@ -75,11 +75,72 @@ Mkdir: make directory
 rm : used for remove directory 
 cp : to copy file form directory
  for global search for regular expression 
-grep[]
-wc counts the no chrachters
+**grep**: The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression (grep stands for global search for regular expression and print out).
+wc counts the no characters.
+**grep [options] pattern [files]**
+**
+- grep -i “search” file     
+     - case insensitive
+- grep -c “search” file    
+    - - count numbers
+- grep -l “search” *   
+- -  displays filename
+    
+- grep -R “search” folder name 
+- - search text in folders
+- grep -v ‘term’ filename
+    
+	- To display without this term
+    
+- grep -n “term” file
+- To display the term find number
+    
 
+
+
+**
+****
 ##Multiple Command Execution Methods
+**
 
+- You can run/ execute multiple commands in 1 line.
+- using 3 methods:
+    
+- And ( && )
+ **On AND operation All commands you entered will be executed. If both are working without error**
+ **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdzeuFaD7_FIV8sSmnqKBRtwzM5Glj4HKKXe_mZ1fnwts_zEvikLxyz2t4LR7runDcv-FOetUvdDCt1AtRZDzawP2k1QZ-xl6TNL1G3_KznZBVctxv_y6km-RMvl4H3FG0FgnVqeiRU8bhBudDEl1UV6s1jTw=s2048?key=4doX5or3BXZCzwBazBIGWQ)**
+ 
+- Or ( || ) 
+ **On OR operation the command will be executed. If it have error or not**
+ **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcYQgAL3K-ZKPQr2x8mvNtOSJZ2_2NupeEKrs3j5fMgfsw3STbxH60om3hJ4YRDKbmAeZaZJW3RbqQpfeXsYCVjGLs-OpCCtmUGcTg068p38V-tHU3oWjqiiCOB_KsbHUYk0wYvdJgUqRsZs5Z0mgTNtGGD6-e-=s2048?key=4doX5or3BXZCzwBazBIGWQ)*
+- Pipeing( | )
+- **On pipe, will help you run commands by using the output of the 1st command as the input for the next one.**
+- **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdKVi1DuNxDr4vot7SoQebl44cfcJ93pjAohXwERG-pU6JQchzV9C1gvw7YopLGnTygQLtUbmCJkg37dGoQusoeyI5rex1qP871h5fC7WyuUcLpe3SELjzS7ISB01ks9K6D1LcstgkMrwGLduOge_muq50eUwZI=s2048?key=4doX5or3BXZCzwBazBIGWQ)**
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUc5s7aj_bWsXwD4-s1s9tH8vWTooYSHscptlcNXSlbXY0zhlXDkpZznwSOD3Db719uwQhXXSt5_v2XrdBnUENFEB6Nw1j4z8E2tFInVnB6VDgobsY5gHrxnoanzaXhRdzAAVSxfab04Dit3Mbpz_UtLt15u11DN=s2048?key=4doX5or3BXZCzwBazBIGWQ)*
+- awk 
+-used to filter a group of text
+
+```
+awk 'document {print $0/1,2,3}' file
+cat /etc/passwd| awk -F ":" '{print $0}'
+```
+
+- sed
+-it is stream editor for larger files it works as find and replace
+```
+mkdir sed
+sed 's/FIND/REPLACE/' filename
+cat filename.txt| sed 's/myname/nickname/'
+//for deleting
+sed '/myname/d' filename.txt
+//for new line
+sed G filename.txt
+//Remove things that start and ends with Nothing , aka new lines
+sed '/^s/d' word
+
+```
+
+**
 
 
 
