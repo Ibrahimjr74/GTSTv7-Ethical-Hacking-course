@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "042a46cb49db13a5",
+    "id": "68b9c51d0bf5dda0",
     "type": "split",
     "children": [
       {
-        "id": "83604cf5ac5ac243",
+        "id": "4c7c7a0cbc37016f",
         "type": "tabs",
         "children": [
           {
-            "id": "71ca1db784b5ee45",
+            "id": "87eb7141895377cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e44214fd710b7c33",
+    "id": "95a1fbbd18e7e1f7",
     "type": "split",
     "children": [
       {
-        "id": "1dd62582f9cb5c09",
+        "id": "a3397efc69253733",
         "type": "tabs",
         "children": [
           {
-            "id": "1205567d25143fe4",
+            "id": "4e66d5c0a233fcd6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "b4b394ef16db3a05",
+            "id": "58ccb2bcc84ad8b6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "e338444ab0d8257e",
+            "id": "e5c01993ed295e03",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5e0f8636dcf45b30",
+    "id": "4ac31f67528769d1",
     "type": "split",
     "children": [
       {
-        "id": "601bbd8de669f13f",
+        "id": "b96b6f7a5c8e344c",
         "type": "tabs",
         "children": [
           {
-            "id": "6cb85d5fde9342d4",
+            "id": "bea9f83b7196ac0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "aa2fb5fc9b35f4a4",
+            "id": "1e1579d0361b35b9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "9d0eb4a9702ee716",
+            "id": "3da69ae305f1182a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "5b005d2d41aa1e83",
+            "id": "d814fb265b519297",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,16 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71ca1db784b5ee45",
-  "lastOpenFiles": [
-    "workspace.json",
-    "appearance.json",
-    "app.json",
-    "core-plugins-migration.json",
-    "core-plugins.json",
-    "Further on Linux.md",
-    "Pasted image 20240729225308.png",
-    "Pasted image 20240729224819.png",
-    "Pasted image 20240729224734.png"
-  ]
+  "active": "87eb7141895377cd",
+  "lastOpenFiles": []
 }
