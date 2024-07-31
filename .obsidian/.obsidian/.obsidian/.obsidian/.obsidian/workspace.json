@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "68b9c51d0bf5dda0",
+    "id": "e534599160204117",
     "type": "split",
     "children": [
       {
-        "id": "4c7c7a0cbc37016f",
+        "id": "db5520031d03f19d",
         "type": "tabs",
         "children": [
           {
-            "id": "87eb7141895377cd",
+            "id": "ca9d0d72d2034cb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Further on Linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95a1fbbd18e7e1f7",
+    "id": "578d262fecbd9589",
     "type": "split",
     "children": [
       {
-        "id": "a3397efc69253733",
+        "id": "3197e086841cb4e6",
         "type": "tabs",
         "children": [
           {
-            "id": "4e66d5c0a233fcd6",
+            "id": "0363f3435e8993db",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "58ccb2bcc84ad8b6",
+            "id": "44ed76464dee1b6f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "e5c01993ed295e03",
+            "id": "0ec03a2a59a48d5e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "4ac31f67528769d1",
+    "id": "bbeff28522435240",
     "type": "split",
     "children": [
       {
-        "id": "b96b6f7a5c8e344c",
+        "id": "2ec60fefecefde83",
         "type": "tabs",
         "children": [
           {
-            "id": "bea9f83b7196ac0a",
+            "id": "42f56bc360dd5f8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Further on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "1e1579d0361b35b9",
+            "id": "e271d8303dada4f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Further on Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3da69ae305f1182a",
+            "id": "6c5459ef911a406b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "d814fb265b519297",
+            "id": "12e83cac03435a78",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Further on Linux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87eb7141895377cd",
-  "lastOpenFiles": [
-    "Over view of kali Linux.md"
-  ]
+  "active": "ca9d0d72d2034cb3",
+  "lastOpenFiles": []
 }
