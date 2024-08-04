@@ -31,7 +31,7 @@ su-username
 sudo mkhomedir  -helper 'username'
 sudo mkdir /home/username
  ** to login
- su - user name
+ su - user namsue
  
  **changin the bash type of user
  sudo usermod 'username' -s /bin/bash
@@ -94,7 +94,7 @@ There are 3 types of permissions
 There still the permission have three parts
 1. User-group-other
 2. User(u) => power if user defined on the ownership
-3. group(g) => power of group defined ont the ownership
+3. group(g) => power of group defined on  the ownership
 4. Other(o)=> power of other users
 5. All(a) => other users
 
