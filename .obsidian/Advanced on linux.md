@@ -3,6 +3,7 @@
  - Software Installation
  - Script Installation
  - Package Installation Common errors
+
 -
 ##Further on User management
 on pervious we see that we can add user  by these commands

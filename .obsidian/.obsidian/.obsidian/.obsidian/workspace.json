@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "On todays class.md",
+                "file": "Bash Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On todays class.md",
+                "file": "Bash Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On todays class.md",
+                "file": "Bash Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On todays class.md"
+                "file": "Bash Scripting.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "83f80c27859463f3",
   "lastOpenFiles": [
+    "Bash Scripting.md",
     "On todays class.md",
     "Over view of kali Linux.md"
   ]

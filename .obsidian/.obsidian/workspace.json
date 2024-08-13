@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further on Linux.md",
+                "file": "Core-of-python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Further on Linux.md",
+                "file": "Core-of-python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Further on Linux.md",
+                "file": "Core-of-python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Further on Linux.md"
+                "file": "Core-of-python.md"
               }
             }
           }
@@ -149,6 +149,15 @@
   "active": "87eb7141895377cd",
   "lastOpenFiles": [
     "Advanced on linux.md",
+    "Pasted image 20240729225308.png",
+    "Pasted image 20240729224819.png",
+    "Pasted image 20240729224734.png",
+    "Further on Linux.md",
+    "Python For Hackers.md",
+    "Script installation.md",
+    "Todays Class topic.md",
+    "Todays first class.md",
+    "Introduction to Linux.md",
     "Over view of kali Linux.md"
   ]
 }
