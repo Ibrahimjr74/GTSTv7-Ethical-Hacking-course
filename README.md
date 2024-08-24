@@ -1,2 +1,2 @@
 # GTSTv7
- The first day class note
+Notes for GTST course 
