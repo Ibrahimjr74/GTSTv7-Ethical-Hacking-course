@@ -213,8 +213,63 @@ Bash
 nmap --script vulners <target>
 ```
 
+- Some known scripts.
+- --script banner  
+- =>   grabbing some details
+- --script broadcast  
+-   reveals broadcast information
+- --script vuln  
+-   test if the ports are vulnerable.
+Nmap m Out puts can be saved
+
+- the “-oG|-oX|-oN”
+- -oG -> For Greppable formats
+- -oX -> for xml formats
+- -oN -> for Normal Saving Format
+
+**Verbose** in the Linux system refers to a mode of operation that provides detailed output or information. It's often used to help with debugging or troubleshooting issues, as it can reveal more specific details about what's happening behind the scenes.
+
+**Here are some common examples of verbose output in Linux:**
+
+- **Command-line tools:** Many command-line tools have a verbose mode that can be activated using a specific flag or option. For example, `ls -l` lists files in long format, but `ls -al` lists files in long format with all hidden files included.
+- **System logs:** System logs can be configured to record events at different levels of detail. A more verbose log level will capture more information, including error messages, warnings, and informational messages.
+- **Debugging tools:** Debugging tools like GDB (GNU Debugger) can be used to step through code line by line and inspect variables. In verbose mode, these tools can provide more details about the execution of the program.
+
+
 ## Nmap Firewall Evasion
-- Firewall Evasion Techniques Using Nmap is a subnet of network security exploration aimed at bypassing or circumventing 
+- Firewall Evasion Techniques Using Nmap is a subnet of network security exploration aimed at bypassing or circumventing fire wall protection
+- IDS(Intrusion Detection System) installed on server and monitors the Traffic of Network flow or system for signs of malicious behavior, policy violations, or other un authorized activities.
+
 
 1.Decoy Scan
-- Nmap employs decoy IP addresses to obscure of scan , complicationg the identification of the actual of actual scanner
+- Nmap employs decoy IP addresses to obscure of scan , complicating the identification of the actual of actual scanner.
+- we can specify multiple decoy IP addresses using the -D option within the Nmap command.
+- nmap -D decoy1, decoy2, decoy3 .... [Target IP]
+- You Can Make Nmap to add some random IPs
+- Nmap -D RND:5 … [Target IP]
+- This makes it Hard for the sysadmin to block our real ip
+2.Fragment Packet
+- Fragmented requests refer to the technique of sending packets in smaller fragments rather than as whole packets. 
+- This is done to evade detection by firewalls, intrusion detection systems (IDS), or intrusion prevention systems (IPS) that rely on analyzing entire packets to detect malicious activity.
+- To Perform this:
+- nmap -f -p21 [Target IP]
+3.**MAC Address Spoofing**
+- This approach is by regenerating a fake MAC Address in order not to be blocked 
+- **nmap -spoof-mac Apple/MAC_ADDRESS -Pn IP**
+
+#### Source Port Manipulation
+
+- A common error system admins make is trusting traffic only based on the source port number. 
+- DNS may be damaged in particular because UDP DNS responses from external servers can no longer reach the network. 
+- Another common example is FTP(21), HTTP(80,8080).
+- To do this:
+- nmap -g [PORT] -p 21 IP
+    
+
+                        ***THE END***
+                    
+
+
+
+
+
