@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "501a1865e04f5ab7",
+        "id": "5804e7a8d2ac5a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "f690a40adee92a8b",
+            "id": "3e3ac9cf6eb1c066",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,12 +139,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f690a40adee92a8b",
+  "active": "6804426fc1976adf",
   "lastOpenFiles": [
+    "2024-08-28.md",
     "Day1_info.md.md",
     "Day2 scaning.md",
     "Untitled",
-    "2024-08-28.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
