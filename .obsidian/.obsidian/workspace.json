@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S2Day4.md",
+                "file": "S2Day3_malware  🪱.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S2Day4.md",
+                "file": "S2Day3_malware  🪱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S2Day4.md",
+                "file": "S2Day3_malware  🪱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S2Day4.md"
+                "file": "S2Day3_malware  🪱.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "b268b3818aef3cd2",
   "lastOpenFiles": [
-    "Day1_info.md.md",
     "S2Day4.md",
+    "Day1_info.md.md",
     "S2Day3_malware  🪱.md",
     "Further on Linux.md",
     "Advanced on linux.md",
