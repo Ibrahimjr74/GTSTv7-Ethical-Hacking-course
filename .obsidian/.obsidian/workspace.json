@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day2 scan.md",
+                "file": "S2Day3_malware  🪱.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b268b3818aef3cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S2Day4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day2 scan.md",
+                "file": "S2Day4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day2 scan.md",
+                "file": "S2Day4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day2 scan.md"
+                "file": "S2Day4.md"
               }
             }
           }
@@ -146,16 +159,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "87eb7141895377cd",
+  "active": "b268b3818aef3cd2",
   "lastOpenFiles": [
-    "Further on Linux.md",
-    "Day2 scan.md",
     "Day1_info.md.md",
+    "S2Day4.md",
+    "S2Day3_malware  🪱.md",
+    "Further on Linux.md",
+    "Advanced on linux.md",
+    "Day2 scan.md",
+    "Further on python.md",
+    "Untitled.md",
     "Pasted image 20240729224734.png",
     "Pasted image 20240729224819.png",
     "Pasted image 20240729225308.png",
     "Core-of-python.md",
-    "Advanced on linux.md",
     "Python For Hackers.md",
     "Script installation.md",
     "Todays Class topic.md",

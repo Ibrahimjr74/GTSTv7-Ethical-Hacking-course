@@ -37,7 +37,7 @@ print(result)  # Output: 7
 
 ```
 ## Recursion
-- is a process pf defining something in terms of itself. it is known that functions can call other functions. it is also possible for function call it  self
+- is a process pf defining something in terms of itself. it is known that functions can call other functions. it is also possible for function call it  self.
 ### Advantage of Recursion
 1. make the code look clean and elegant
 2. reduces effort
