@@ -140,7 +140,7 @@ print(even_squares)  # Output: [4, 16, 36, 64]
 - a class is a blueprint for that object
 -  Example attribute: name : Toshiba,hp,dell..
                  cpu : amd-ryzen,core i5
-                 Use: for Coding, gaming,l istening music
+                 Use: for Coding, gaming, listening music
 ## Creating Objects
 - You can Create many Objects based on1 class
 ```

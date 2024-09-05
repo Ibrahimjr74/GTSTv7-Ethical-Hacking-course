@@ -82,14 +82,14 @@ Pretexting is an attack in which the attacker creates a scenario to try and conv
 - It is an easy way for an unauthorized party to get around security mechanisms that are assumed to be secure. 
 - The security comes into question due to a combination of human carelessness
 
-#### **Eavesdropping**
+#### **Eavesdropping**(ጆሮ ጠቢ)
 Eavesdropping, in the context of social engineering, refers to the act of secretly listening in on conversations to gain sensitive information.
 ### Prevention ways
 
 - Employees Awareness
 - Multi Step Verification
 - Using Password Policy
-     - Using difficult passwors(not include your name,birthday, pet,what you love)
+     - Using difficult passwords(not include your name, birthday, pet ,what you love)
      - Changing Policy
      - Using symbols numbers
      - Avoid default passwords
