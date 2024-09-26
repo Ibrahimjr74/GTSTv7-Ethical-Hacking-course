@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7f837b9c3ba76152",
+        "id": "26a420b67f009afe",
         "type": "tabs",
         "children": [
           {
-            "id": "43bc518396e95b9f",
+            "id": "66a221621efd3fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S2Day8_Sys.md",
+                "file": "Bash Scripting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac71bbccaa58af74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic Penetration Testing ctf.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S2Day8_Sys.md",
+                "file": "Basic Penetration Testing ctf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S2Day8_Sys.md",
+                "file": "Basic Penetration Testing ctf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S2Day8_Sys.md"
+                "file": "Basic Penetration Testing ctf.md"
               }
             }
           }
@@ -146,10 +159,32 @@
       "templates:Insert template": false
     }
   },
-  "active": "bea9f83b7196ac0a",
+  "active": "ac71bbccaa58af74",
   "lastOpenFiles": [
-    "S2Day5_Crypto.md",
+    "Pasted image 20240925235217.png",
+    "Pasted image 20240925234739.png",
+    "Pasted image 20240925222802.png",
+    "Pasted image 20240925222603.png",
+    "Pasted image 20240925220018.png",
+    "Pasted image 20240925214851.png",
+    "Bash Scripting.md",
+    "Basic Penetration Testing ctf.md",
+    "Pasted image 20240923145045.png",
+    "Pasted image 20240923140252.png",
+    "Pasted image 20240729224819.png",
+    "Pasted image 20240729224734.png",
     "S2Day8_Sys.md",
+    "S2Day9_web hacking.md",
+    "Wireless Attacks.md",
+    "Group Assignment Answers.md",
+    "OWASP_ Juice ctf.md",
+    "Pasted image 20240925185702.png",
+    "CTF WriteUps.md",
+    "S2 Last class Bug bounty.md",
+    "Todays first class.md",
+    "Todays Class topic.md",
+    "Untitled 1.md",
+    "S2Day5_Crypto.md",
     "S2Day3_malware  🪱.md",
     "S2Day4.md",
     "S2Day6_NetworkHacking.md",
@@ -158,21 +193,9 @@
     "On todays class.md",
     "Python For Hackers.md",
     "Script installation.md",
-    "Pasted image 20240904211748.png",
-    "Pasted image 20240904210626.png",
-    "Pasted image 20240904204602.png",
     "Core-of-python.md",
     "Further on python.md",
     "Advanced on linux.md",
-    "Day2 scan.md",
-    "Day1_info.md.md",
-    "Further on Linux.md",
-    "Untitled.md",
-    "Pasted image 20240729224734.png",
-    "Pasted image 20240729224819.png",
-    "Pasted image 20240729225308.png",
-    "Todays Class topic.md",
-    "Todays first class.md",
-    "Over view of kali Linux.md"
+    "Day2 scan.md"
   ]
 }
