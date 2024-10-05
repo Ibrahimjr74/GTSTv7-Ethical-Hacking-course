@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash Scripting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac71bbccaa58af74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic Penetration Testing ctf.md",
+                "file": "OWASP_ Juice ctf.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.5
   },
   "right": {
     "id": "4ac31f67528769d1",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Penetration Testing ctf.md",
+                "file": "OWASP_ Juice ctf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Penetration Testing ctf.md",
+                "file": "OWASP_ Juice ctf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Penetration Testing ctf.md"
+                "file": "OWASP_ Juice ctf.md"
               }
             }
           }
@@ -159,43 +146,43 @@
       "templates:Insert template": false
     }
   },
-  "active": "ac71bbccaa58af74",
+  "active": "66a221621efd3fed",
   "lastOpenFiles": [
+    "S2Day3_malware  🪱.md",
+    "Day1_info.md.md",
+    "S2Day6_NetworkHacking.md",
+    "Networking For Hackers👌.md",
+    "Bash Scripting.md",
+    "S2Day5_Crypto.md",
+    "S2Day4.md",
+    "S2 Last class Bug bounty.md",
+    "Python For Hackers.md",
+    "Privilege Escalation.md",
+    "Pasted image 20240729224734.png",
+    "Over view of kali Linux.md",
+    "On todays class.md",
+    "Introduction to Linux.md",
+    "Group Assignment Answers.md",
+    "Further on python.md",
+    "Further on Linux.md",
+    "CTF WriteUps.md",
+    "Core-of-python.md",
+    "Basic Penetration Testing ctf.md",
+    "Advanced on linux.md",
+    "2024-09-28.md",
+    "Script installation.md",
+    "Todays Class topic.md",
+    "Todays first class.md",
+    "S2Day9_web hacking.md",
+    "Day2 scan.md",
     "Pasted image 20240925235217.png",
     "Pasted image 20240925234739.png",
     "Pasted image 20240925222802.png",
     "Pasted image 20240925222603.png",
     "Pasted image 20240925220018.png",
     "Pasted image 20240925214851.png",
-    "Bash Scripting.md",
-    "Basic Penetration Testing ctf.md",
     "Pasted image 20240923145045.png",
     "Pasted image 20240923140252.png",
-    "Pasted image 20240729224819.png",
-    "Pasted image 20240729224734.png",
-    "S2Day8_Sys.md",
-    "S2Day9_web hacking.md",
-    "Wireless Attacks.md",
-    "Group Assignment Answers.md",
-    "OWASP_ Juice ctf.md",
-    "Pasted image 20240925185702.png",
-    "CTF WriteUps.md",
-    "S2 Last class Bug bounty.md",
-    "Todays first class.md",
-    "Todays Class topic.md",
-    "Untitled 1.md",
-    "S2Day5_Crypto.md",
-    "S2Day3_malware  🪱.md",
-    "S2Day4.md",
-    "S2Day6_NetworkHacking.md",
-    "S2Day7Anon🕵💀.md",
-    "Introduction to Linux.md",
-    "On todays class.md",
-    "Python For Hackers.md",
-    "Script installation.md",
-    "Core-of-python.md",
-    "Further on python.md",
-    "Advanced on linux.md",
-    "Day2 scan.md"
+    "Pasted image 20240729224819.png"
   ]
 }

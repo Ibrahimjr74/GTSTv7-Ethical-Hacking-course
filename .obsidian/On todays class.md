@@ -117,7 +117,7 @@ chmod u + x filename => adding execute permisson for user
 chmod g +x filename ->adding execute permissions for group
 chmod o +x filename ->adding execute permissions for others
 
-$$ I one line
+I one line
 eg. sudo chmod a+rwx,u-wx,g-x,o-r filename
 
 B) Paramaters in Number

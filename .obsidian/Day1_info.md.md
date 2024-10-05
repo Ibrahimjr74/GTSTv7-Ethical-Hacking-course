@@ -142,7 +142,7 @@ Ex: think like user posted a picture with a background of some area, if the user
 
 ## Google Dorking(Google Hacking)
 
-- It is not hackinggoogle but using google operators to efectively search result anf informations, identify vulnerablities in websites 
+- It is not hacking google but using google operators to effectively search result and informations, identify vulnerabilities in websites 
 
 
 

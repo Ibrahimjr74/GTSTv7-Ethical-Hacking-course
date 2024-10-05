@@ -1,0 +1,10 @@
+- Privilege means special right and Escalation means Altering
+- There are two types : Vertical Privilege Escalation , Horizontal Escalation 
+- it is the authority to change user info, logging as that user
+- host name is the name of that machine
+- uname -a :  a necessary info about  that linux
+- proc/ : file information about the target system
+- etc/issue: contains info about the operating system, customized changes
+- ps : displays the running processes 
+- sudo -l : lists all program that are not running by root user or programs that run on ***sudo***  command.
+- etc/shadows : show us all linux inside connected accounts with hased passwords.

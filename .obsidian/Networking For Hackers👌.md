@@ -13,7 +13,7 @@ ARPANET is the largest computer network invented by US Military, it is basically
 NSFET - national science network foundation networked developed for military purposes, which later evolves to internet communication
 
 - **The network becomes a powerful tool when computers communicate and share resources with other computers on the same network or entirely distinct networks.**
-- 
+
 ## client
 User computer that request resources
 ## server

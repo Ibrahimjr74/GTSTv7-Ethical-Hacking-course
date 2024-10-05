@@ -118,14 +118,14 @@ chmod u + x filename => adding execute permisson for user
 chmod g +x filename ->adding execute permissions for group
 chmod o +x filename ->adding execute permissions for others
 
-$$ I one line
+I one line
 eg. sudo chmod a+rwx,u-wx,g-x,o-r filename
 
 B) Paramaters in Number
 - chmod $621 file name -> 6 for user w2 for group 1 for others (6 = 4+2), 6 = rw
 - chmod $777 file name -> 7 for user 7 for group 7 for others (7= 4 + 2 + 1)=rwx
 
-Specia; FUle {Permissions
+Special FUle {Permissions
 Therwe are another 3 special permissions, your manbu encounter on yur penteet jounery
 
 They are 
